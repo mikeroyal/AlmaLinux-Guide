@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/124993370-22e1b480-dff9-11eb-8da5-e4bede3d4f16.png">
   <br />
   AlmaLinux Guide
 </h1>
@@ -7,6 +7,11 @@
 #### A guide on setting up your AlmaLinux Desktops with all the essential Applications, Tools, and Games to make your experience with AlmaLinux great!
 
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124993374-2412e180-dff9-11eb-8821-5c49e70be8d2.png">
+  <br />
+</p>
 
 # Table of Contents
 
@@ -76,11 +81,11 @@
 [Etcher](https://www.balena.io/etcher/) is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.
 
 
- <h1 align="center">
- <img src="">
-  <br />
- Alma Linux Desktop
-</h1>
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/124993377-24ab7800-dff9-11eb-90b4-4a121eff6de3.png">
+	
+ **AlmaLinux Desktop Setup and Install. Source: [AlmaLinux](https://almalinux.org/)**
+
 
 ## GNOME Tweaks
 
